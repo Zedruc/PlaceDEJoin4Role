@@ -13,7 +13,7 @@ To setup the Bot you basically just need to fill in all informations in the `con
     `role` is the role ID you want to assign to the members if they join a Voice Channel.
 
 **Ignore Channel**
-    ID of the Stage channel
+    IDs of the Stage channel - ["ID1", "ID2" . . .]
 
 **Cooldown**
     Cooldown for the bot to not reach the api limit, recommended to be set to something at least greater than 4

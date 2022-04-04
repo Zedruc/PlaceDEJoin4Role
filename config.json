@@ -1,6 +1,9 @@
 {
     "token": "<TOKEN>",
     "role": "<ROLE ID>",
-    "ignore_channel": "<STAGE CHANNEL ID>",
+    "ignore_channel": [
+        "<VOICE CHANNEL ID 1>",
+        "<VOICE CHANNEL ID 2>"
+    ],
     "cooldown": 5000
 }
