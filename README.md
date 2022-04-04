@@ -17,6 +17,9 @@ To setup the Bot you basically just need to fill in all informations in the `con
 
 **Cooldown:**
     Cooldown for the bot to not reach the api limit, recommended to be set to something at least greater than 4
+    
+**Role Management:**
+    The role you want the bot to give to people must be BELOW the bot's role
 
 ## Contributors
 
