@@ -21,5 +21,5 @@ To setup the Bot you basically just need to fill in all informations in the `con
 ## Contributors
 
 MisterGamingTV#5451 (689888889208307762)  
-pauel#0001 (527814442746904591)
+pauel#0001 (527814442746904591)  
 Zedruc#4100 (568729687291985930)
