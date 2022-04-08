@@ -1,5 +1,5 @@
 # Join4Role
-Originally created for r/placeDE for the r/place event 2022
+Originally created for r/placeDE for the r/place event 2022  
 Just a little Discordbot to assign roles to members in a Voice Channel
 
 ## Setup
